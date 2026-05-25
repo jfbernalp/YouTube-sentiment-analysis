@@ -1,0 +1,10 @@
+env_eda/
+*.db
+*.sqlite
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+secrets.py
+year-mm-dd-backup.dump
